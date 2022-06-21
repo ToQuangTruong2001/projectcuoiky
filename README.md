@@ -1,0 +1,2 @@
+# projectcuoiky
+AI
